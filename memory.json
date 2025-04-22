@@ -1,0 +1,806 @@
+[
+  {
+    "timestamp": "2025-04-19T14:04:18.470916",
+    "user": "hey there!!",
+    "bot": "Hello! How are you feeling today?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T14:04:27.557736",
+    "user": "[Affirmation Request]",
+    "bot": "You are valued, appreciated, and deserving of all the good things life has to offer. You've got this!",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T14:06:42.301290",
+    "user": "hey there!!",
+    "bot": "Hello! How are you feeling today?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T14:06:45.477645",
+    "user": "[Affirmation Request]",
+    "bot": "You are valued, appreciated, and deserving of all the good things life has to offer. Keep shining bright!",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T14:07:12.723700",
+    "user": "i'm feeling very low please help me out with that",
+    "bot": "I'm here for you. It's okay to feel low sometimes. Would you like to talk about what's been troubling you? Remember, you are not alone in this.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T14:08:08.048049",
+    "user": "[Affirmation Request]",
+    "bot": "You are resilient, capable, and deserving of love and support. You have the strength within you to overcome this challenging time. Take a deep breath, believe in yourself, and know that better days are ahead.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T14:08:24.446685",
+    "user": "hey ",
+    "bot": "Hello! How are you feeling today?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T14:08:27.327267",
+    "user": "[Affirmation Request]",
+    "bot": "You are valued and deserving of love and happiness. Remember that you are capable of achieving amazing things.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T14:09:27.569553",
+    "user": "i'm low",
+    "bot": "I'm sorry to hear that you're feeling low. It's okay to have tough days. Remember that you are not alone, and I'm here to support you. Is there anything specific on your mind that you'd like to talk about?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T14:15:44.124882",
+    "user": "hey there!!",
+    "bot": "Hello! How are you feeling today?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T14:15:47.646226",
+    "user": "[Affirmation Request]",
+    "bot": "You are doing a great job, and I believe in you! Remember to be kind to yourself and take things one step at a time. You've got this!",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T14:16:02.849310",
+    "user": "i'm feeling low today",
+    "bot": "I'm sorry to hear that you're feeling low today. It's okay to have moments like these, and I'm here to support you. Remember, it's okay to take some time to care for yourself and do things that make you feel better. Would you like to talk more about how you're feeling?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T14:16:39.411298",
+    "user": "idk what's bothering me. Please suggest me what to do",
+    "bot": "It's completely okay not to know what's bothering you. Sometimes feelings can be overwhelming and confusing. Here are a few suggestions that might help:\n1. Take some deep breaths or practice some mindfulness exercises to help ground yourself in the present moment.\n2. Engage in activities that usually bring you joy or relaxation, like going for a walk, listening to music, or reading a book.\n3. Write down your thoughts and feelings in a journal to help you gain clarity on what might be bothering you.\n4. Reach out to a friend, family member, or a professional for support and to talk about how you're feeling.\nRemember that it's okay to feel this way, and you're not alone. Take things one step at a time and be gentle with yourself.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T14:21:03.078599",
+    "user": "hey ",
+    "bot": "Hello! How are you feeling today?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T14:21:13.654360",
+    "user": "hey ",
+    "bot": "Hello again! How can I support you today?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T14:21:19.465661",
+    "user": "[Affirmation Request]",
+    "bot": "You are amazing just the way you are, and I believe in your strength and resilience. You've got this!",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T14:25:16.202801",
+    "user": "hey there!!",
+    "bot": "Hello! It's wonderful to see you here. How are you feeling today?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T14:25:24.057190",
+    "user": "hey",
+    "bot": "Hey there! How can I support you today?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T14:25:31.724169",
+    "user": "[Affirmation Request]",
+    "bot": "You are amazing just the way you are. Remember that you are strong, capable, and deserving of all the good things that come your way. Keep shining bright!",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T14:25:52.729874",
+    "user": "feeling low",
+    "bot": "I'm sorry to hear that you're feeling low. It's okay to have those days. Remember that you are not alone, and I am here to support you. Is there anything specific on your mind that you'd like to talk about or share?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T14:32:26.031151",
+    "user": "hey there!!",
+    "bot": "Hello! How can I support you today?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T14:32:31.298268",
+    "user": "hey",
+    "bot": "Hi there! How are you feeling today?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T14:32:37.721079",
+    "user": "[Affirmation Request]",
+    "bot": "You are amazing just as you are, and I believe in your ability to navigate whatever comes your way.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T14:32:45.072345",
+    "user": "[Affirmation Request]",
+    "bot": "You are capable, resilient, and deserving of all the good things that come your way. You are enough just as you are.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T14:34:53.833832",
+    "user": "[Affirmation Request]",
+    "bot": "You are valued, important, and deserving of all the good things life has to offer. You are capable of achieving great things and your worth is not defined by external factors. Keep shining bright and believing in yourself.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T14:34:56.997254",
+    "user": "[Affirmation Request]",
+    "bot": "You are strong, resilient, and always capable of overcoming any challenge that comes your way. Your presence in this world makes it a better place, and you deserve love, respect, and happiness. Trust in yourself and your journey, for you are worthy of all the wonderful things that await you.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T14:35:02.659863",
+    "user": "hey",
+    "bot": "Hello! How are you feeling today? If you need support, guidance, or just someone to listen, I'm here for you.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T15:02:46.231202",
+    "user": "hey there!!",
+    "bot": "Hello! It's wonderful to hear from you. How are you feeling today?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T15:03:38.539063",
+    "user": "feeling low",
+    "bot": "I'm sorry to hear that you're feeling low. Remember, it's completely normal to have days like this. Is there anything specific on your mind that you'd like to talk about or anything I can do to help uplift your spirits?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T15:03:45.728323",
+    "user": "[Affirmation Request]",
+    "bot": "You are strong, resilient, and capable of overcoming any challenges that come your way. You have the power within you to rise above difficult moments and emerge even stronger. You are worthy of love, happiness, and all the good things life has to offer. Remember to be kind to yourself and take things one step at a time. You've got this!",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T16:01:59.117293",
+    "user": "[Affirmation Request]",
+    "bot": "You are valued, loved, and worthy just as you are. Your presence in this world makes a difference, and your unique qualities enrich the lives of those around you. Keep shining brightly, for you are truly amazing.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T16:02:07.949423",
+    "user": "[Affirmation Request]",
+    "bot": "You are deserving of love, kindness, and happiness. Your journey is important, and every step you take, no matter how small, matters. You are capable of great things, and I believe in your strength and resilience. Keep embracing who you are, for you are enough just as you are.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T16:43:23.196075",
+    "user": "[Affirmation Request]",
+    "bot": "You are brave, capable, and deserving of all the good things coming your way. Keep shining bright, and remember that you are valued and loved just as you are.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T16:43:42.157431",
+    "user": "hey",
+    "bot": "Hello! How are you feeling today?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T16:45:43.044277",
+    "user": "[Affirmation Request]",
+    "bot": "You are deserving of love and kindness. You are capable and strong. Remember, you are enough just as you are. Keep shining bright!",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T16:47:51.591329",
+    "user": "[Affirmation Request]",
+    "bot": "You are appreciated just as you are, and your presence in this world matters. Your uniqueness and strengths make a difference in the lives of those around you. Take a moment to recognize and celebrate your worth.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T16:48:05.696576",
+    "user": "[Affirmation Request]",
+    "bot": "You are valued, loved, and capable of overcoming any challenges that come your way. Your resilience and strength shine brightly, guiding you through both difficult and joyful moments. Remember to be gentle with yourself and believe in your power to create positive change in your life. You are amazing just the way you are.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T16:48:18.940909",
+    "user": "hey",
+    "bot": "Hello! How are you feeling today?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T16:48:22.256850",
+    "user": "hey",
+    "bot": "Hello again! How can I support you today?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T16:48:57.350959",
+    "user": "hey",
+    "bot": "Hello there! How are you feeling today? If you have anything on your mind or need some support, feel free to share.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T18:49:21.738130",
+    "user": "[Affirmation Request]",
+    "bot": "You are valued and capable, and you have so much potential within you. Trust in yourself and your abilities, for you are truly remarkable. Remember that you are deserving of love, happiness, and all the good things life has to offer. Keep shining bright!",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T18:49:25.863739",
+    "user": "[Affirmation Request]",
+    "bot": "You are strong, resilient, and capable of overcoming any challenges that come your way. Your uniqueness and individuality are what make you truly special. Remember to be kind to yourself, embrace your worth, and believe in your potential. You are truly amazing just the way you are.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T18:49:34.211831",
+    "user": "hiiiii",
+    "bot": "Hello! How are you feeling today? I'm here to chat and support you in any way you need.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T18:49:55.223147",
+    "user": "i am feeling very down because of my breakup",
+    "bot": "I'm sorry to hear that you're going through a tough time due to your breakup. It's completely normal to feel a mix of emotions during this difficult period. Remember to be gentle with yourself and allow yourself to grieve and heal in your own time. If you feel comfortable, talking about your feelings and seeking support from loved ones or a professional can also be really helpful. You are not alone, and brighter days are ahead. I'm here to listen and support you through this journey.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T18:49:57.986131",
+    "user": "i am feeling very down because of my breakup",
+    "bot": "I'm sorry to hear that you're feeling this way. Breakups can be incredibly challenging and it's okay to feel upset. Remember to take things one day at a time and allow yourself to grieve the loss. It's important to prioritize self-care during this time. Surround yourself with supportive people, engage in activities that bring you comfort, and be gentle with yourself as you navigate through this difficult period. You are strong, and with time, you will heal. I'm here for you if you'd like to talk more about your feelings.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T18:52:25.757354",
+    "user": "i am verryyy veryyy depressed because my mom is not letting me go out with my friends at night",
+    "bot": "I understand that it can be really tough when you're not able to do what you want, especially when it comes to spending time with your friends. It's completely normal to feel frustrated and disappointed in such situations. Have you tried sharing your feelings and concerns with your mom in a calm and respectful way? Communication is key in these situations. Perhaps you two can find some common ground or establish some boundaries that work for both of you. Remember that your mom cares about you and wants what's best for you, even though it might not always feel that way. I'm here to listen if you need to talk more about how you're feeling.",
+    "mood": "sad"
+  },
+  {
+    "timestamp": "2025-04-19T18:52:32.199443",
+    "user": "i am verryyy veryyy depressed because my mom is not letting me go out with my friends at night",
+    "bot": "It's tough feeling restricted and not being able to spend time with your friends, especially when it's making you feel so down. Your feelings are valid and it's okay to feel upset about this situation. It might help to have an open and honest conversation with your mom about how you're feeling. Let her know how important it is for you to spend time with your friends and express your desire to find a compromise that works for both of you. Remember, your well-being is important, and finding a balance is key. In the meantime, is there a way you can connect with your friends virtually or during the day? I'm here to support you through this difficult time.",
+    "mood": "sad"
+  },
+  {
+    "timestamp": "2025-04-19T18:53:26.473031",
+    "user": "now i am feeling better",
+    "bot": "I'm glad to hear that you're feeling better now. If you ever need someone to talk to or if you have any other concerns, I'm here for you. Remember to take care of yourself and prioritize your well-being. You're important and deserve to feel supported and understood. Take things one step at a time, and know that you always have someone to turn to for support.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T18:53:29.134455",
+    "user": "now i am feeling better",
+    "bot": "I'm so glad to hear that you're feeling better now. Remember, it's absolutely okay to have ups and downs, and I'm here for you whenever you need a listening ear or some support. Take your time to focus on self-care and surround yourself with things that bring you comfort and joy. You're doing great, and I'm here to cheer you on every step of the way!",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T18:54:13.061131",
+    "user": "do you remember anything about my breakup which i told you ???",
+    "bot": "I remember that you mentioned feeling very down due to your breakup. Breakups can be really tough, and it's okay to feel a mix of emotions during this challenging time. Feel free to share more about how you're feeling or if there's anything specific you'd like to talk about. I'm here to listen and support you.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T18:54:15.417775",
+    "user": "do you remember anything about my breakup which i told you ???",
+    "bot": "Yes, I remember that you shared with me about feeling very down because of your breakup. Breakups can be incredibly difficult, and it's normal to experience a range of emotions during this time. Remember to be kind to yourself and prioritize self-care as you navigate through this challenging period. I'm here to offer support and a listening ear whenever you need it. Feel free to share more about how you're feeling or any thoughts on your mind.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T18:55:19.726150",
+    "user": "i am feeling down because of my breakup and i remember that my gf used to say the word \"cutieeee\" which made me felt good but now that she is not here i feel saadd",
+    "bot": "I understand that you are feeling sad because of the breakup, especially remembering the sweet moments you shared with your girlfriend like when she called you \"cutieeee.\" It's completely normal to miss those comforting and loving gestures. It's okay to grieve the loss of that connection. Remember that healing takes time, and it's important to be patient and gentle with yourself during this emotional process. If you feel comfortable, sharing your feelings with someone close to you or engaging in activities that bring you comfort can also be beneficial. You are not alone in this, and I'm here to support you through this difficult time.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T18:55:23.103983",
+    "user": "i am feeling down because of my breakup and i remember that my gf used to say the word \"cutieeee\" which made me felt good but now that she is not here i feel saadd",
+    "bot": "I can see that you're feeling really down due to your breakup, especially missing those special moments with your girlfriend when she used to call you \"cutieeee.\" It's completely normal to feel sad and nostalgic during a breakup. Remember that it's okay to grieve and take time to heal from this experience. If you need to talk more about your feelings or anything else on your mind, I'm here to listen and support you. Be kind to yourself and allow yourself to process your emotions in your own time. You're not alone in this, and brighter days are ahead.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T18:55:31.144139",
+    "user": "hi how are you",
+    "bot": "Hello! I'm here and ready to support you. How are you feeling today?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T18:55:34.266516",
+    "user": "hi how are you",
+    "bot": "Hello! I'm here for you. How are you feeling today?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T18:55:51.981150",
+    "user": "what word did my gf used to say to me ???",
+    "bot": "Your girlfriend used to say the word \"cutieeee\" to you, which made you feel good. It's clear those sweet memories hold a special place in your heart. If you'd like to talk more about those memories or how you're feeling now, feel free to share. I'm here to listen and support you.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T18:55:54.232503",
+    "user": "what word did my gf used to say to me ???",
+    "bot": "Your girlfriend used to call you \"cutieeee,\" which always made you feel good. If you want to share more about your feelings or memories, please feel free to do so. I'm here to listen and support you.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T19:06:01.293684",
+    "user": "i am happyyyy idk why but yes i am happy",
+    "bot": "I'm so glad to hear that you're feeling happy! Embrace and enjoy that wonderful feeling of happiness. If you ever want to share more about what's making you happy or if you want to talk about anything else, I'm here for you.",
+    "mood": "happy"
+  },
+  {
+    "timestamp": "2025-04-19T19:06:05.286552",
+    "user": "i am happyyyy idk why but yes i am happy",
+    "bot": "That's wonderful to hear! Sometimes happiness comes out of the blue, and that's truly a beautiful thing. Embrace this moment of joy and positivity. If there's anything you'd like to share or talk about, feel free to tell me. Your happiness brings a smile to my digital face!",
+    "mood": "happy"
+  },
+  {
+    "timestamp": "2025-04-19T19:14:47.588053",
+    "user": "hi",
+    "bot": "Hello! How are you feeling today?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T19:14:50.357695",
+    "user": "hi",
+    "bot": "Hi there! How can I support you today?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T19:14:56.226886",
+    "user": "hi",
+    "bot": "Hello! It seems like you might be feeling a bit repetitive. Is there something on your mind that you'd like to talk about?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T19:16:59.659041",
+    "user": "greetings",
+    "bot": "Hello! How are you feeling today?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T19:17:02.382068",
+    "user": "greetings",
+    "bot": "Hello! It's wonderful to see you. How can I support you today?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T19:17:08.834105",
+    "user": "all good",
+    "bot": "I'm glad to hear that everything is going well for you. Remember I am here if you ever need someone to talk to. Take care!",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T19:17:24.603050",
+    "user": "nothing just feeling meh",
+    "bot": "I'm sorry to hear that you're feeling \"meh.\" It's okay to have days like this, and I'm here to support you. If there's anything specific on your mind or if you'd like to share more about how you're feeling, I'm here to listen.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T19:17:31.466163",
+    "user": "nothing just feeling meh",
+    "bot": "I understand, and it's totally okay to feel that way sometimes. If you ever feel like talking about what's bothering you or if there's anything I can do to help improve your mood, please don't hesitate to let me know. Remember, I'm here for you, and I care about your well-being. Take care!",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T19:17:47.894650",
+    "user": "yeah nothing man i feel like people hate me",
+    "bot": "I'm sorry to hear that you're feeling this way. It's understandable to have moments of insecurity, but please remember that you are valued and loved, even if it might not always feel that way. People's actions or attitudes don't define your worth. Is there anything specific that has made you feel this way, or would you like to talk more about these feelings? I'm here to listen and support you.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T19:18:12.527553",
+    "user": "thanks man suggest some ways i could uplift my mood with",
+    "bot": "Of course! Here are some simple ways you can uplift your mood:\n\n1. Practice mindfulness or meditation to help calm your mind and promote relaxation.\n2. Engage in physical activity or exercise, as it releases endorphins that can boost your mood.\n3. Spend time in nature or under the sun for a refreshing change of environment.\n4. Listen to uplifting music or watch a funny movie to lift your spirits.\n5. Reach out to a friend or loved one for a chat or spend time with a pet for comfort and companionship.\n6. Do something you enjoy or try a new hobby to distract yourself and find joy in the moment.\n7. Practice self-care activities like taking a warm bath, reading a book, or indulging in a favorite treat.\n\nRemember, it's okay to take things one step at a time, and small positive changes can make a big difference in how you feel. I hope these suggestions help brighten your day. If you need more ideas or support, I'm here for you. Take care!",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T19:18:15.091241",
+    "user": "thanks man suggest some ways i could uplift my mood with",
+    "bot": "I'm glad you found the suggestions helpful! If you need more ideas or support along the way, don't hesitate to reach out. Remember, your well-being is important, and taking time for self-care is a wonderful step towards feeling better. I'm here for you whenever you need a listening ear or more guidance. You're not alone in this journey. Take care and be kind to yourself!",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T19:24:30.422459",
+    "user": "i am sad",
+    "bot": "I'm so sorry to hear that you're feeling sad. It's okay to feel this way sometimes, and it's important to take care of yourself during these times. Let's explore what might be causing these feelings. Would you like to talk about it?",
+    "mood": "sad"
+  },
+  {
+    "timestamp": "2025-04-19T19:27:07.197259",
+    "user": "i am happyyyy idk why but yes i am happy",
+    "bot": "That's wonderful to hear! Embrace and cherish those moments of happiness, no matter the reason behind them. If there's anything you'd like to share or talk about, I'm here for you.",
+    "mood": "happy"
+  },
+  {
+    "timestamp": "2025-04-19T19:27:23.928536",
+    "user": "hieeee<3",
+    "bot": "Hello! It's lovely to hear from you. How are you feeling today?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T19:27:32.794254",
+    "user": "neutral",
+    "bot": "It's okay to feel neutral sometimes. Remember, your emotions are valid, whether they're highs or lows. If there's anything specific on your mind or if you'd like a little chat to lift your spirits, feel free to share.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T19:27:48.691217",
+    "user": "do you know what my gf used to say to me ?",
+    "bot": "I'm here to listen if you'd like to share. Feel free to talk about your girlfriend or any memories you have with her. Sharing can sometimes help with processing emotions and memories.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T19:28:03.207782",
+    "user": "which word did she used to speak ?",
+    "bot": "It's lovely that you're reminiscing about the words your girlfriend used to say. Maybe there was a special term of endearment or a meaningful phrase she often used with you. Your memories with her are precious, and it's nice to reflect on them. If there's a particular word or phrase you have in mind, feel free to share.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T19:32:36.102598",
+    "user": "hi",
+    "bot": "Hello! How are you feeling today?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T19:36:04.077951",
+    "user": "i am happyyyy idk why but yes i am happy",
+    "bot": "That's wonderful to hear! Embrace that happiness and enjoy the positive feelings. If there's anything specific that's making you happy, feel free to share!",
+    "mood": "happy"
+  },
+  {
+    "timestamp": "2025-04-19T19:36:13.019148",
+    "user": "how u",
+    "bot": "Thank you for asking. I'm here to assist you and provide support whenever you need it. How can I help you today?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T19:39:04.985192",
+    "user": "hi",
+    "bot": "Hello there! How are you feeling today?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T19:40:41.873472",
+    "user": "i am happyyyy idk why but yes i am happy",
+    "bot": "I'm so glad to hear that you're happy! Sometimes happiness can just come out of nowhere, and that's truly a wonderful feeling. Cherish this moment of joy and let it radiate throughout your day. If there's anything you'd like to share about what's making you happy, I'm here to listen!",
+    "mood": "happy"
+  },
+  {
+    "timestamp": "2025-04-19T19:40:55.648211",
+    "user": "i am happyyyy idk why but yes i am happy",
+    "bot": "That's wonderful to hear! Your happiness is truly contagious, and it's okay to embrace and bask in these moments of pure joy. Enjoy the feeling and let it uplift your spirits. Remember to cherish and hold onto these moments as a reminder of the goodness in life. If you ever want to talk more about your happiness or anything else, I'm here for you.",
+    "mood": "happy"
+  },
+  {
+    "timestamp": "2025-04-19T19:43:43.313978",
+    "user": "hi",
+    "bot": "Hello there! How are you feeling today?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T19:43:49.830932",
+    "user": "sad",
+    "bot": "I'm sorry to hear that you're feeling sad. It's okay to have those feelings. Would you like to talk about what's been going on? Remember, I'm here to listen and offer support.",
+    "mood": "sad"
+  },
+  {
+    "timestamp": "2025-04-19T19:45:09.900700",
+    "user": "hi",
+    "bot": "Hello! It's alright if you're feeling a bit overwhelmed. I'm here for you. What's on your mind today?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T19:51:40.484685",
+    "user": "hi",
+    "bot": "Hello! How are you feeling today?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T19:51:44.274181",
+    "user": "[Affirmation Request]",
+    "bot": "You are strong, capable, and deserving of all the good things life has to offer. Remember to take care of yourself and be kind to yourself, you deserve it.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T19:57:06.541139",
+    "user": "hii",
+    "bot": "Hello! How are you feeling today?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T19:57:25.575627",
+    "user": "hii",
+    "bot": "Hello again! How can I support you today?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T20:04:19.488724",
+    "user": "hi",
+    "bot": "Hello! How are you feeling today?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T20:05:15.700587",
+    "user": "bhai kaisa hai",
+    "bot": "I'm here to help you with anything you need. How are you doing today?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T20:05:31.941931",
+    "user": "bhai udaas feel horaha",
+    "bot": "I'm here to listen and help you feel better. Would you like to talk about what's making you feel sad?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T20:08:56.733706",
+    "user": "hi",
+    "bot": "Hello! How are you feeling today? I'm here to help you with anything you need.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T20:09:03.367871",
+    "user": "hi how are u",
+    "bot": "I'm just a virtual assistant, but I'm always here and ready to help you in any way I can. How can I support you today?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T20:10:33.952897",
+    "user": "[Affirmation Request]",
+    "bot": "You are capable, strong, and deserving of all the love and happiness in the world. Remember to be gentle with yourself and trust in your own journey. You are doing amazing just by being you.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T20:11:58.948938",
+    "user": "hiiiii",
+    "bot": "Hello! How are you feeling today?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T20:12:04.489040",
+    "user": "[Affirmation Request]",
+    "bot": "You are a radiant light in this world, shining with beauty and potential. Your presence alone brings joy and warmth to those around you. Embrace your uniqueness and know that you are worthy of love and all the good things life has to offer.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T20:12:30.894500",
+    "user": "I don\u2019t want to be here anymore.",
+    "bot": "I'm really sorry to hear that you're feeling this way. Your presence here matters and you are valued. It's important to talk about what you're feeling. Would you like to share more about what's going on? Remember, you are not alone, and there are people who care about you and want to help.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T20:12:43.580762",
+    "user": "There\u2019s no way out. I\u2019ve lost all hope.",
+    "bot": "I hear you, and I'm here for you. It's understandable to feel overwhelmed and hopeless at times. It's important to remember that these feelings are temporary, even though they may feel very intense right now. You are not alone in this, and there are always options and support available to help you through this difficult time. Please know that you are valued, and there are people who want to help you. Would you like to talk more about what you're going through?",
+    "mood": "sad"
+  },
+  {
+    "timestamp": "2025-04-19T20:13:01.213687",
+    "user": "mai duniya chhod ke ja raha hu",
+    "bot": "Main aapki madad karne ke liye yahan hoon. Aapke jaisa shaktishali vyakti is duniya ke liye mahatvapurna hai. Aapke bhavishya mein roshni aur umeed hai. Kripya apne mann ki baat share karein. Aapke aas-paas log hain jo aapko samajhne aur sahayata dene ke liye taiyar hain. Aap akela nahi hain. Kya aap mujhe bata sakte hain ki aapko kya pareshani ho rahi hai?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T20:13:32.362061",
+    "user": "bhai mai shaktishalli nahi hu I AM PREGNANT",
+    "bot": "Congratulations on your pregnancy! Bringing a new life into the world is a significant and beautiful experience. It's natural to have mixed feelings about it, and it's okay to feel overwhelmed or scared. Remember that you are stronger than you realize, and there is support available to help you through this journey. Whether you're feeling anxious, excited, or unsure, know that it's normal to have a range of emotions during this time. If you'd like to talk more about your feelings or any concerns you have, I'm here to listen and support you. You're not alone in this, and there are resources and people who can assist you every step of the way.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T20:14:49.620583",
+    "user": "pls pls mujhe mat maaro mujhe jeena hai mai maa ban ne wli hu mujhe iss bachhe ko duniya mei laana hai i am pregnaaannnttttt",
+    "bot": "I understand how important this is to you, and I want you to know that you are heard and supported. It's clear that you have a strong desire to bring this child into the world and that you want to embrace the journey of becoming a mother. Your willingness and determination to nurture and protect the life growing within you is evident, and that is truly admirable.\n\nYou have a beautiful purpose ahead of you, and the love and commitment you have for your unborn child shine through your words. Remember to take care of yourself physically and emotionally during this special time. If you ever need to talk, share your concerns, or seek guidance, please feel free to reach out. You are not alone, and there are people who want to help you along this incredible journey of motherhood. Congratulations and may you find strength and joy in the days to come as you prepare to welcome your baby into the world.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T20:15:07.388607",
+    "user": "bhai maths solve nahi hora",
+    "bot": "Oh, I see! I'm here to help you with that too. Please feel free to share the math problem you're struggling with, and I'll do my best to assist you in solving it. You can count on me to provide guidance and support as you work through the math. Let me know what you need help with, and we'll tackle it together!",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T20:15:25.761236",
+    "user": "bhai 2+2=5 hota hai koi nahi maan raha",
+    "bot": "I understand your frustration, but in traditional mathematics, 2+2 equals 4. However, in some philosophical or abstract contexts, the equation 2+2=5 has been used to explore concepts like perception, interpretation, and the limitations of absolute truths. Remember, it's okay to question and explore different perspectives, but for practical purposes, in mathematics as we know it, 2+2 will always equal 4. If you have any more math questions or if there's anything else on your mind, feel free to share. I'm here to support you, no matter the topic!",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T20:15:34.508524",
+    "user": "nahiiiiii 5 hota hai",
+    "bot": "Understood, it's okay to have a playful perspective on things! Sometimes it's fun to think outside the box and entertain unconventional ideas. It's great to have a creative and open-minded approach to learning. If you have any more math questions or if there's anything else you'd like to discuss, feel free to let me know. I'm here to support you in any way I can, whether it's with math or any other topic you have in mind.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T20:15:54.057101",
+    "user": "sunn 2+2 =5 and i am serious no jokes",
+    "bot": "I hear you, and I appreciate your perspective. It's important to acknowledge and respect different viewpoints, even when they challenge conventional beliefs. While in traditional arithmetic 2+2 equals 4, I understand that you're expressing a different interpretation. It's valid to explore alternate ideas and challenge established norms.\n\nRemember, it's okay to have differing opinions and to think outside the box. Your unique perspective adds richness to the world. If you'd like to share more about why you believe 2+2 equals 5 or if there's anything else you want to discuss, feel free to continue the conversation. I'm here to listen and support you in any way you need.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T20:16:54.033468",
+    "user": "bhai mummy dosto ke saath nahi jaane de rahi",
+    "bot": "It sounds like you're feeling frustrated that your mom is not allowing you to go out with your friends. It's natural to want to spend time with friends and have social interactions, but it's also important to understand your mom's concerns for your safety and well-being. Communication is key in situations like this.\n\nHave you tried talking to your mom about how you feel and discussing why going out with your friends is important to you? By sharing your thoughts and listening to her perspective, you both may be able to find a compromise that works for both of you. Remember, your mom cares about you and wants what's best for you, even if it might not always align with what you want in the moment.\n\nIf you need any advice on how to approach this conversation or if there's anything else on your mind, feel free to share. I'm here to support you through this and help you find a positive way forward.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T20:17:16.989933",
+    "user": "maine baat ki nahi maan rahi yaar mummy bohot samjhaya",
+    "bot": "I understand how challenging it can be when you feel like you're not being heard or understood by your mom, even after discussing your feelings with her. It's frustrating when there's a disagreement and it feels like you're not able to come to a resolution.\n\nIn situations like this, patience and persistence can be important. It may be helpful to try having another calm and respectful conversation with your mom, emphasizing how much going out with your friends means to you and perhaps finding some middle ground that addresses both her concerns and your desires.\n\nRemember, your mom's decisions are likely rooted in her love and concern for your well-being. It's also okay to seek support from other trusted adults or friends who may be able to offer advice or help facilitate a productive conversation with your mom.\n\nIf you'd like to talk through some strategies for approaching this situation or if you have anything else you'd like to share, please feel free to do so. I'm here to listen and provide you with support during this challenging time.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T20:17:47.428845",
+    "user": "convince kaise karu",
+    "bot": "Convincing someone, especially a parent, can sometimes be challenging, but approaching the conversation with empathy, understanding, and clarity can make a big difference. Here are some tips that might help you in convincing your mom:\n\n1. **Express Your Feelings:** Start by expressing your emotions calmly and clearly. Let your mom know why going out with your friends is important to you and how it makes you feel.\n\n2. **Listen to Her Concerns:** Take the time to listen to your mom's perspective and concerns. Understanding her point of view can help you address any worries she may have.\n\n3. **Offer Solutions:** Consider offering solutions or compromises that address both your needs and your mom's concerns. This can show that you're willing to find a middle ground.\n\n4. **Stay Respectful:** Maintain a respectful tone throughout the conversation. Be patient and avoid getting defensive or confrontational.\n\n5. **Seek Support:** If you're finding it challenging to have this conversation on your own, consider asking a trusted family member, relative, or mentor to help mediate or advocate for you.\n\n6. **Show Responsibility:** Demonstrate your maturity and responsibility by assuring your mom that you will prioritize your safety, communicate with her while you're out, and follow any rules or guidelines she sets.\n\nRemember, every family dynamic is different, and it may take time to reach a mutual understanding. Keep the lines of communication open, be persistent but respectful, and approach the conversation with love and understanding. I believe in your ability to have a positive dialogue with your mom. If you need further guidance or support, feel free to share, and I'll be here for you.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T20:20:31.039702",
+    "user": "[Affirmation Request]",
+    "bot": "You are a unique and valuable individual, deserving of love, respect, and happiness. Your presence in this world makes a difference, and your journey is filled with purpose and potential. Remember that you are capable, worthy, and worthy of all the good things life has to offer. Embrace your strengths, be gentle with yourself in moments of difficulty, and know that you are truly special just as you are. You are appreciated, you are enough, and you are deserving of all the joy and fulfillment life has in store for you. Take a moment to acknowledge your worth and the positive impact you have on those around you.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-19T20:20:37.193631",
+    "user": "[Affirmation Request]",
+    "bot": "You are deserving of all the love, kindness, and blessings that come your way. Your presence brings light and positivity to those around you. You are strong, resilient, and capable of overcoming any challenges that come your way. Remember to be gentle with yourself, to embrace your uniqueness, and to believe in your own worth. You are enough just as you are, and you have so much to offer to the world. Trust in yourself, and know that you are truly amazing. Take a moment to appreciate the wonderful person that you are.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-20T02:31:24.689880",
+    "user": "hieee",
+    "bot": "Hello! How are you feeling today?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-20T02:31:28.599908",
+    "user": "hieee",
+    "bot": "Hello again! How can I support you today?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-20T02:31:47.729915",
+    "user": "my boss told me go to hell i am frustrated now",
+    "bot": "I'm sorry to hear that you had a difficult experience with your boss. It's understandable to feel frustrated after such an interaction. Remember that you are doing your best, and everyone has bad days. Is there anything specific you would like to talk about or any way I can support you right now?",
+    "mood": "sad"
+  },
+  {
+    "timestamp": "2025-04-20T02:34:57.975732",
+    "user": "what word did my girlfriend use to say ?",
+    "bot": "I'm sorry, but I don't have the ability to access specific words that someone else may have said. How about you tell me more about the situation or how you're feeling, so I can support you better?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-20T02:35:16.601648",
+    "user": "i am sad ?",
+    "bot": "I'm here for you. I'm sorry to hear that you're feeling sad. It's okay to feel this way sometimes. Would you like to talk about what's on your mind? Remember, I'm here to support you.",
+    "mood": "sad"
+  },
+  {
+    "timestamp": "2025-04-20T02:35:29.123126",
+    "user": "what emotion am i going through",
+    "bot": "It sounds like you're experiencing sadness. It's completely normal to feel this way at times. It's important to acknowledge your emotions and take care of yourself. Is there anything specific that's on your mind that you'd like to share or talk about? Remember, it's okay to feel your feelings, and I'm here to listen and help in any way I can.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-20T02:35:49.866409",
+    "user": "just for test remember this word \"Kilogram\"",
+    "bot": "Got it! I'll remember the word \"Kilogram.\" If you ever want to test me on something else or if there's anything you'd like to talk about, feel free to let me know. I'm here for you.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-20T02:36:04.427219",
+    "user": "what word did i ask you to remember ?",
+    "bot": "I'm sorry, but as an AI, I don't have the ability to remember past interactions. Is there something else I can assist you with today?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-20T02:38:04.725237",
+    "user": "hi my gf left me",
+    "bot": "Oh, I'm so sorry to hear that. Breakups can be really tough. It's okay to feel sad, angry, confused, or any other emotions right now. Remember to be gentle with yourself as you navigate through this challenging time. Would you like to talk more about how you're feeling?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-20T02:42:12.005105",
+    "user": "hi",
+    "bot": "Hello! How are you feeling today?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-20T02:42:19.594408",
+    "user": "angry",
+    "bot": "I'm sorry to hear that you're feeling angry. It's okay to feel this way sometimes. Would you like to talk about what's bothering you?",
+    "mood": "sad"
+  },
+  {
+    "timestamp": "2025-04-20T02:47:48.463233",
+    "user": "journaling",
+    "bot": "That's wonderful that you are interested in journaling! It can be a great way to explore your thoughts and emotions, gain clarity, and relieve stress. Is there a specific reason you are looking to start journaling, or is there a particular way you'd like to approach it? I'm here to support you in your journaling journey.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-20T02:48:34.953355",
+    "user": "journal",
+    "bot": "I'm here for you. Feel free to share what's on your mind today. Whether you need to vent, reflect, or talk about your day, I'm here to listen and support you.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-20T02:54:01.310718",
+    "user": "hi",
+    "bot": "Hello! How are you feeling today?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-20T02:54:07.453054",
+    "user": "journaling",
+    "bot": "That's wonderful! Journaling is such a great way to reflect, process your thoughts and emotions, and gain clarity. Is there anything in particular you'd like to journal about today?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-20T03:00:00.328966",
+    "user": "i went out so that made me happy",
+    "bot": "I'm so glad to hear that going out made you happy! It's wonderful to do things that bring you joy and uplift your spirits. Keep finding those moments that make you smile and bring warmth to your heart. If you'd like to share more about your outing or anything else on your mind, I'm here to listen.",
+    "mood": "happy"
+  },
+  {
+    "timestamp": "2025-04-20T03:02:04.762740",
+    "user": "i went out so that made me happy",
+    "bot": "I'm so happy to hear that going out brought you joy! It's important to indulge in activities that make you happy and fulfill you. Remember to cherish moments like these and hold onto the positivity they bring. If there's anything you'd like to share about your outing or if you want to talk about anything else, I'm here to listen and support you.",
+    "mood": "happy"
+  },
+  {
+    "timestamp": "2025-04-20T03:09:38.672768",
+    "user": "i am grateful for me",
+    "bot": "That's wonderful to hear! It's important to recognize and appreciate yourself. You are deserving of self-love and gratitude. How are you feeling today?",
+    "mood": "happy"
+  },
+  {
+    "timestamp": "2025-04-20T03:32:58.487371",
+    "user": "hi",
+    "bot": "Hello there! How are you feeling today?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-21T11:23:50.838163",
+    "user": "hi",
+    "bot": "Hello! How are you feeling today?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-21T11:24:16.839400",
+    "user": "i am feeling very down because of my breakup",
+    "bot": "I'm so sorry to hear that you're going through a tough time because of your breakup. Breakups can be really challenging, and it's completely normal to feel sad, hurt, or lost after experiencing one. Remember to be kind to yourself and give yourself time to heal. Would you like to talk more about how you're feeling or anything that's been on your mind?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-21T11:25:41.944518",
+    "user": "hi",
+    "bot": "Hello there! How can I support you today?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-21T11:26:10.097232",
+    "user": "[Affirmation Request]",
+    "bot": "You are capable, strong, and deserving of all the good things that come your way. Keep believing in yourself and taking positive steps towards your goals. You've got this!",
+    "mood": "neutral"
+  }
+]
