@@ -107,8 +107,10 @@ Powered by:
 ---
 
 ## 📸 Preview
+<img width="1434" alt="Screenshot 2025-04-23 at 12 44 41 AM" src="https://github.com/user-attachments/assets/c742b6ca-e9ab-4a53-ada7-39f62bb8aff1" />
+<img width="1434" alt="Screenshot 2025-04-23 at 12 45 14 AM" src="https://github.com/user-attachments/assets/dd6ef0df-49d3-414b-aa71-82c38aeb7e4f" />
+<img width="721" alt="Screenshot 2025-04-23 at 12 45 26 AM" src="https://github.com/user-attachments/assets/77195f3c-0c50-4b3c-9573-6adb68a7b6de" />
 
-> Coming soon: hosted version or screenshot preview link.
 
 ---
 
