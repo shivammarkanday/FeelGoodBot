@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": "2025-04-23T01:00:17.980441",
+    "user": "hi",
+    "bot": "Hello! How are you feeling today?",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-23T01:00:38.332059",
+    "user": "i am feeling a bit sad because i didnt get much marks in my mid sems",
+    "bot": "I'm sorry to hear that you're feeling sad about your midterms. It's completely normal to feel this way when things don't go as planned. Remember, your worth is not defined by your grades. Is there anything specific you'd like to talk about or share about how you're feeling? I'm here to listen.",
+    "mood": "sad"
+  },
+  {
+    "timestamp": "2025-04-23T01:00:50.833045",
+    "user": "what can i do to make things better",
+    "bot": "I'm glad you're looking for ways to make yourself feel better. Here are a few suggestions that might help:\n\n1. Take a break and do something you enjoy. Whether it's reading a book, going for a walk, or listening to music, doing things that bring you joy can help lift your spirits.\n2. Talk to someone you trust about how you're feeling. Sharing your thoughts and emotions with a friend, family member, or counselor can provide you with support and comfort.\n3. Practice self-care. Make sure you're getting enough rest, eating healthily, and engaging in activities that help you relax and unwind.\n4. Set realistic goals and make a plan to improve your academic performance in the future. Break down your goals into manageable steps and take it one day at a time.\n5. Remember that setbacks and challenges are a part of life, and it's okay to not be perfect. Be kind to yourself and practice self-compassion.\n\nRemember, it's okay to feel sad, and it's important to give yourself the time and space to process your emotions. If you need further support, don't hesitate to reach out. I'm here for you.",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-04-23T01:00:59.342553",
+    "user": "thank you so much",
+    "bot": "You're very welcome! I'm here to support you whenever you need it. Remember, you are capable and resilient, and you will get through this challenging time. Take care of yourself, and don't hesitate to reach out if you need more support or just want to talk. You've got this!",
+    "mood": "neutral"
+  }
+]
