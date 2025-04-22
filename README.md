@@ -3,6 +3,7 @@
 A kind and empathetic AI chatbot for emotional wellness, built using **Streamlit** and **OpenRouter (Mixtral)**.  
 Supports affirmations, emotion detection, journaling mode, and memory logging — all in one beautiful package.  
 
+Check out the app here - https://feelgoodbot.streamlit.app/
 ---
 
 ## 🌟 Features
